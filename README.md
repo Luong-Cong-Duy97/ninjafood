@@ -1,7 +1,7 @@
 # ninjafood
 
-#run server
+- run server
 live-server public
 
-#run auto update tailwind
+- run auto update tailwind
 npm run build-css
